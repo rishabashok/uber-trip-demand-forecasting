@@ -12,7 +12,6 @@ This project involves predicting daily Uber trip demand using machine learning (
 ## Dataset
 
 - File used: `Uber-Jan-Feb-FOIL.csv`
-- Source: [NYC TLC FOIL Uber data](https://data.cityofnewyork.us/)
 - Key columns:
   - `date` — day of record
   - `dispatching_base_number` — Uber base identifier

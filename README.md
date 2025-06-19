@@ -52,7 +52,7 @@ Residuals were plotted to check model bias and error stability.
 - Average trips by weekday
 - Fully styled with slicers and titles
 
-### 📂 Files included:
+### Files included:
 - `Uber_Trip_Analysis.ipynb` – Full Jupyter notebook (Python)
 - `forecast_results.csv` – Model output for dashboard
 - `daily_summary.csv` – Processed data for visuals
